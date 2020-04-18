@@ -20,18 +20,18 @@
       "unicode_decimal": 59023
     },
     {
-      "icon_id": "3868160",
-      "name": "学历",
-      "font_class": "xueli",
-      "unicode": "e60c",
-      "unicode_decimal": 58892
-    },
-    {
       "icon_id": "3870380",
       "name": "17-坐标",
       "font_class": "-zuobiao",
       "unicode": "e847",
       "unicode_decimal": 59463
+    },
+    {
+      "icon_id": "3893250",
+      "name": "专业技能",
+      "font_class": "zhuanyejineng",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
     }
   ]
 }
